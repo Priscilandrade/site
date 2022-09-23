@@ -1,0 +1,136 @@
+#body{
+    margin: 0px;      
+}
+
+#total{
+    width: 1500px;
+    height: auto;
+    margin:auto;  
+}
+
+#topo{
+    width: 1500px;
+    height: 100px;
+    background-color: blue;
+    border: 10px solid yellow;
+    margin-bottom: 10px;
+    
+}
+
+#um{
+    width: 600px;
+    height: 400px;
+    float:left;
+    background-color: blue;
+    margin-top: 10px;
+    
+}
+#dois{
+    width: 420px;
+    height: 180px;
+    float:left;
+    background-color: yellow;
+    margin: 10px 10px 10px 10px ;
+    
+    
+}
+
+#tres{
+    width: 440px;
+    height: 180px;
+    float:left;
+    background-color: brown;
+    margin: 10px 10px 10px 10px ;
+}
+
+#quatro{
+    width: 870px;
+    height: 400px;
+    float:left;
+    background-color: brown;
+    margin: 10px 10px 10px 20px ; 
+
+}
+
+#a{
+    width: 550px;
+    height: 80px;
+    float:left;
+    background-color: brown;
+    margin: 10px 10px 10px 20px ;
+
+}
+
+#b{
+    width: 550px;
+    height: 80px;
+    float:left;
+    background-color: brown;
+    margin: 10px 10px 10px 20px ;
+
+}
+
+#c{
+    width: 550px;
+    height: 80px;
+    float:left;
+    background-color: brown;
+    margin: 10px 10px 10px 20px ;
+
+}
+
+#d{
+    width: 550px;
+    height: 80px;
+    float:left;
+    background-color: brown;
+    margin: 10px 10px 10px 20px ;
+
+}
+
+#quadroextra{
+
+    width: 600px;
+    height: 200px;
+    float:left;
+    background-color: blue;
+    margin-top: 15px;
+}
+
+#quadro1{
+
+    width: 280px;
+    height: 200px;
+    float:right;
+    background-color: blue;
+    margin-top: 10px;
+}
+
+#quadro2{
+
+    width: 280px;
+    height: 200px;
+    float:right;
+    background-color: blue;
+    margin: 10px 10px 10px 10px;
+}
+
+#quadro3{
+
+    width: 280px;
+    height: 200px;
+    float:right;
+    background-color: blue;
+    margin:10px 10px 10px 10px; 
+}
+
+#rodape{
+
+    width: 1500px;
+    height:100px;
+    float:left;
+    background-color: blue;
+    margin:10px 10px 10px 10px; 
+}
+
+
